@@ -1,4 +1,4 @@
 ## BOM
-| Name   | Purpose      | Source         | Price | Link | Total|
-|:-------|:-------------|:---------------|:------|:------|:----------|
-|6pcs 8*400 Linear Rods|For bearings to slide on|Amazon|$27|[link](https://www.amazon.com/gp/product/B0CXTX5FZ3/ref=ox_sc_act_title_1?smid=A2IW11PEFKCHE9&psc=1)||
+| Name   | Cost   |Cost/Unit| Cost/Kit| Source    | Link | Total|
+|:-------|:-------|:--------|:--------|:----------|:-----|:-----\
+|Uno R3 Clones|4.6|4.6|4.6|[link]([https://www.amazon.com/gp/product/B0CXTX5FZ3/ref=ox_sc_act_title_1?smid=A2IW11PEFKCHE9&psc=1](https://www.aliexpress.us/item/3256808569187520.html?spm=a2g0n.productlist.0.0.506119d2bTv05r&browser_id=2e5f83bedc414b8281e63673cef4f660&aff_platform=msite&m_page_id=yivoyoqmcawxauoo19ed1dc95c21935c794e1ece81&gclid=&pdp_ext_f=%7B%22order%22%3A%222321%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.52%210.99%21%21%2130.40%216.63%21%40210328d417816373549231674ed947%2112000046548613883%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A2be9752b%3Bm03_new_user%3A-29895%3BpisId%3A5000000207269586&algo_pvid=8776bedc-d328-44bc-9377-71e527ed1f62&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008755502272%7C_p_origin_prod%3A&search_p4p_id=2026061612155568813524747200000228680_1))||
